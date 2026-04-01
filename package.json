@@ -57,7 +57,7 @@
   },
   "scripts": {
     "dev": "npx parcel src/index.html",
-    "build": "parcel build src/index.html --public-url /todolist-parsel/",
+    "build": "parcel build src/index.html --public-url /hendlerbars/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
