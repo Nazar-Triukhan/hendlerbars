@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Espresso Riserva",
+    "type": "Arabica",
+    "origin_country": "Ethiopia",
+    "flavor_notes": ["citrus", "chocolate", "floral aroma"],
+    "price_per_100g": 5.5
+  },
+  {
+    "name": "Cappuccino Blend",
+    "type": "Arabica/Robusta",
+    "origin_country": "Brazil",
+    "flavor_notes": ["nut", "caramel", "milky taste"],
+    "price_per_100g": 4.8
+  },
+  {
+    "name": "Colombian Select",
+    "type": "Arabica",
+    "origin_country": "Colombia",
+    "flavor_notes": ["berries", "sugarcane", "floral"],
+    "price_per_100g": 6.2
+  },
+  {
+    "name": "Indonesian Sumatra",
+    "type": "Arabica",
+    "origin_country": "Indonesia",
+    "flavor_notes": ["spices", "woody aroma", "chocolate"],
+    "price_per_100g": 5.0
+  },
+  {
+    "name": "Vietnamese Robusta",
+    "type": "Robusta",
+    "origin_country": "Vietnam",
+    "flavor_notes": ["nuts", "dark chocolate", "earthy"],
+    "price_per_100g": 3.7
+  }
+]

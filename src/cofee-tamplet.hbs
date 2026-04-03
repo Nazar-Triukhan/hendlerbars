@@ -1,0 +1,11 @@
+{{#each cofee}}
+    <li>
+    <h2>Назва:{{name}}</h2>
+    <p>тип:{{type}}</p>
+    <p>країна:{{original_country}}</p>
+    {{#each flavor_notes}}
+    <li>{{this}}</li>
+    {{/each}}
+    <p>ціна за 100г:{{price_pre_100g}}</p>
+    </li>
+  {{/each}}
